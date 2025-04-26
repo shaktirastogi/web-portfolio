@@ -25,7 +25,8 @@
 
 html body{
     overflow-x: hidden;
-    background-color: #030303;
+    background-color: #f5f5f5; /* Light Grey background */
+    color: #000; /* Change text to black for readability */
 }
 
 .navprat{
