@@ -31,6 +31,7 @@ html body{
     padding: 0;
     font-family: 'Fredoka', sans-serif;
     min-height: 100vh;
+    color: #ffd700; /* Bright yellow font colour */
 }
 
 @keyframes gradientBG {
@@ -82,7 +83,7 @@ z-index: 1000;
 
 .banner-left-1{
     font-size: 30px;
-    font-family: 'Fredoka', sans-serif;
+    font-family: 'Trebuchet MS', sans-serif;
     margin: 10px 0;
 }
 
